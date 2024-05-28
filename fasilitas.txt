@@ -1,0 +1,38 @@
+<html>
+<head>
+<title>Fasilitas</title>
+</head>
+<center><h4><font color=maroon><marquee direction="left">SELAMAT DATANG DI BIMBEL CERMAT</marquee></color></h4>
+<body Background="begron.png">
+<h1>BIMBEL CERMAT</h1>
+<h2>Be Smart Be Better</h2>
+| <a href=UTS_KHASRIYATUN.html>H o m e</a>
+| <a href=program.html>Program</a>
+| <a href=fasilitas.html>Fasilitas</a>
+| <a href=keunggulan.html>Keunggulan</a> |
+<br>
+<img src="gambar4.png"width="800'height="450">
+</center>
+<p>
+<font face=verdana size=5 color=black>
+<h2>Fasilitas :<br></h2><left>
+<font size=5>
+<ol type=1>
+		<li><h4>Ruang kelas Nyaman
+		<li>Tersedia Modul dan Soal
+		<li>Perpustakaan
+		<li>Lab Computer
+		<li>Tutor yang Kompeten dibidangnya
+		<li>Laporan Perkembangan Siswa
+		<li>Konsultasi Akademik
+		<li>Konsultasi Pilihan Program</h4></left>
+<br>
+<center><img src="laboratorium.jpg"width="400"height="250">
+<img src="guru.png"width="400"height="250">
+<img src="ruangan1.jpg"width="400"height="250">
+<img src="anak.jpg"width="400"height="250"</center>
+<br>
+<center><img src="gambar3.png"width="900"height="450"></center>
+</ul>
+</body>
+</html>
